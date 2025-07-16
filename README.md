@@ -9,10 +9,4 @@ A sleek React + Vite app that delivers a continuous stream of wisdom — cycling
 - Modular structure: quotes stored in a separate file for easy updates and scalability
 - Built with React and Vite for lightning-fast performance
 
-## Installation
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/your-username/quotes-app.git
-cd quotes-app
+Project Viewership: https://quote-spark-iota.vercel.app/
